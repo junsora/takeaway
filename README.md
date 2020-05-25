@@ -75,5 +75,3 @@
 ## 連絡先
 * K.Sakanoshita (http://www.netfort.gr.jp/~saka/)
 * E-mail: saka@netfort.gr.jp / twitter: @K_Sakanoshita / facebook: K.Sakanoshita
-
-## Test
